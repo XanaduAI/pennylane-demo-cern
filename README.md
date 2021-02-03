@@ -5,9 +5,9 @@ This repository contains material for the [PennyLane tutorial at CERN](https://i
 Schedule
 --------
 
-9:30 - 9:45 Welcome and recap
+**9:30 - 9:45** Welcome and recap
 
-9:45 - 10:30 Part I: Classical machine learning with automatic differentiation
+**9:45 - 10:30** Part I: Classical machine learning with automatic differentiation
 
 Notebook 1-classical-ml-with-automatic-differentiation
 
@@ -17,7 +17,7 @@ Learning objectives:
 
 * be able to train a simple linear model using automatic differentiation.
 
-10:30 - 11:15 Part II: Differentiable quantum computing
+**10:30 - 11:15** Part II: Differentiable quantum computing
 
 Notebook 2-differentiable-quantum-computations
 
@@ -29,9 +29,9 @@ Learning objectives:
 
 *train a variational quantum circuit like a machine learning model.
 
-11:15 - 11:45 Break
+**11:15 - 11:45** Break
 
-11:45 - 12:25 Part III: Quantum gradients on remote devices
+**11:45 - 12:25** Part III: Quantum gradients on remote devices
 
 Slides and Notebook 3-quantum-gradients
 
@@ -43,5 +43,5 @@ Learning objectives:
 
 * be able to compute a quantum gradient on a remote backend.
 
-12:25-12:30 Final words
+**12:25-12:30** Final words
 
