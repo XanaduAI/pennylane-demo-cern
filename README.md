@@ -34,6 +34,7 @@ Learning objectives:
 **11:45 - 12:25** Part III: Quantum gradients on remote devices
 
 *Slides* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/parameter_shift_slides.pdf) [(open with Google Drive)](https://docs.google.com/presentation/d/1bwbAVnHQaj8Yl4t-ocpf2wfutzDpG2wmWApzyguNenc/edit?usp=sharing) 
+
 *Notebook 3-quantum-gradients* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/3-quantum-gradients.ipynb) [(open with colab)](https://colab.research.google.com/github/XanaduAI/pennylane-demo-cern/blob/main/3-quantum-gradients.ipynb)
 
 Learning objectives: 
