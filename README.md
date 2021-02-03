@@ -23,11 +23,11 @@ Notebook 2-differentiable-quantum-computations
 
 Learning objectives:
 
-*be able to implement a variational quantum circuit in PennyLane,
+* be able to implement a variational quantum circuit in PennyLane,
 
-*compute the gradient of a variational quantum circuit,
+* compute the gradient of a variational quantum circuit,
 
-*train a variational quantum circuit like a machine learning model.
+* train a variational quantum circuit like a machine learning model.
 
 **11:15 - 11:45** Break
 
