@@ -19,7 +19,7 @@ Learning objectives:
 
 **10:30 - 11:15** Part II: Differentiable quantum computing
 
-*Notebook 2-differentiable-quantum-computations* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/2-differentiable-quantum-computing.ipynb) [(open with colab)](https://colab.research.google.com/github/XanaduAI/pennylane-demo-cern/blob/main/2-differentiable-quantum-computing)
+*Notebook 2-differentiable-quantum-computations* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/2-differentiable-quantum-computing.ipynb) [(open with colab)](https://colab.research.google.com/github/XanaduAI/pennylane-demo-cern/blob/main/2-differentiable-quantum-computing.ipynb)
 
 Learning objectives:
 
