@@ -5,11 +5,11 @@ This repository contains material for the [PennyLane tutorial at CERN](https://i
 Schedule
 --------
 
-**9:30 - 9:45** Welcome and recap
+**9:30 - 9:45** Welcome and recap of seminar [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/seminar_slides.pdf) [(open with Google Drive)](https://drive.google.com/file/d/1NxR4iEjHfn-7i30FIMqlp82gD2nmh8j3/view?usp=sharing)
 
 **9:45 - 10:30** Part I: Classical machine learning with automatic differentiation
 
-Notebook 1-classical-ml-with-automatic-differentiation
+*Notebook 1-classical-ml-with-automatic-differentiation* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/1-classical-ml-with-automatic-differentiation.ipynb) [(open with colab)](https://colab.research.google.com/github/XanaduAI/pennylane-demo-cern/blob/main/1-classical-ml-with-automatic-differentiation.ipynb)
 
 Learning objectives:
 
@@ -19,7 +19,7 @@ Learning objectives:
 
 **10:30 - 11:15** Part II: Differentiable quantum computing
 
-Notebook 2-differentiable-quantum-computations
+*Notebook 2-differentiable-quantum-computations* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/2-differentiable-quantum-computing.ipynb) [(open with colab)](https://colab.research.google.com/github/XanaduAI/pennylane-demo-cern/blob/main/2-differentiable-quantum-computing.ipynb)
 
 Learning objectives:
 
@@ -33,7 +33,9 @@ Learning objectives:
 
 **11:45 - 12:25** Part III: Quantum gradients on remote devices
 
-Slides and Notebook 3-quantum-gradients
+*Slides* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/parameter_shift_slides.pdf) [(open with Google Drive)](https://docs.google.com/presentation/d/1bwbAVnHQaj8Yl4t-ocpf2wfutzDpG2wmWApzyguNenc/edit?usp=sharing) 
+
+*Notebook 3-quantum-gradients* [(open on github)](https://github.com/XanaduAI/pennylane-demo-cern/blob/main/3-quantum-gradients.ipynb) [(open with colab)](https://colab.research.google.com/github/XanaduAI/pennylane-demo-cern/blob/main/3-quantum-gradients.ipynb)
 
 Learning objectives: 
 
